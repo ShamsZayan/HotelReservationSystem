@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1629975983 source:c:\users\hosam\desktop\monsters\main.cpp
+	<iostream>
+	"Monster.h"
+	"Human.h"
+	<string>
+	<cstring>
+	<bits/stdc++.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	<fstream>
+
+1629974864 source:c:\users\hosam\desktop\monsters\src\guest.cpp
+	"Guest.h"
+
+1629974800 c:\users\hosam\desktop\monsters\include\guest.h
+	<string>
+
+1629924619 source:c:\users\hosam\desktop\monsters\src\human.cpp
+	"Human.h"
+
+1629924619 c:\users\hosam\desktop\monsters\include\human.h
+	"Guest.h"
+
+1629903598 source:c:\users\hosam\desktop\monsters\src\monster.cpp
+	"Monster.h"
+
+1629904118 c:\users\hosam\desktop\monsters\include\monster.h
+	"Guest.h"
+

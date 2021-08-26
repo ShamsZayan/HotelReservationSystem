@@ -1,0 +1,3 @@
+monster,sonia,6235,400,4
+monster,soka,6584,3000,5
+human,sasa,6927,10000,2
